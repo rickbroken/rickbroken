@@ -1,5 +1,5 @@
-# 💫 About Me:
-Creador de contenido sobre tecnología y desarrollo web. Explico programación de forma rápida y visual, haciéndola accesible para todos. También estudio sistemas computacionales con especialidad en ciberseguridad, lo que me da un enfoque técnico y actualizado. ¡Aprende y mantente al día aquí! 💫
+# 💫 Soy Ricardo Quebrada
+<center>Creador de contenido sobre tecnología y desarrollo web.💫</center>
 
 
 ## 🌐 Socials:
