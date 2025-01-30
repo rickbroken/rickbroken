@@ -1,6 +1,7 @@
 
 <div align="center">
-<h1><b>Soy Ricardo Quebrada</b></h1>
+  <h1><b>Rickbroken</b></h1>
+  <h3><i>Ricardo Quebrada</i></h3>
   <p>Creador de contenido sobre tecnología y desarrollo web.💫</p>
   
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/dNavpKnJUM) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricardo-quebrada-815171213/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@rickbrokendev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@rickbrokendev) 
