@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 style="font-size: 30px;"><b>Rickbroken</b></h1>
+  <span style="font-size: 30px;"><b>Rickbroken</b></span>
   <h4><i>Ricardo Quebrada</i></h4>
   <p>Creador de contenido sobre tecnología y desarrollo web.💫</p>
   
