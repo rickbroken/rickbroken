@@ -1,6 +1,6 @@
 
 <div align="center">
-# 💫 Soy Ricardo Quebrada
+<h1><b>Soy Ricardo Quebrada</b></h1>
   <p>Creador de contenido sobre tecnología y desarrollo web.💫</p>
 </div>
 ## 🌐 Socials:
