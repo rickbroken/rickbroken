@@ -1,6 +1,8 @@
 
 <div align="center">
-  <span style="font-size: 30px;"><b>Rickbroken</b></span>
+  
+  # <b>Rickbroken</b>
+  
   <h4><i>Ricardo Quebrada</i></h4>
   <p>Creador de contenido sobre tecnología y desarrollo web.💫</p>
   
