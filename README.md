@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # <b>Rickbroken</b>
+  # 🐈‍⬛ <b>Rickbroken</b> 🐈‍⬛
   
   <h4><i>Ricardo Quebrada</i></h4>
   <p>Creador de contenido sobre tecnología y desarrollo web.💫</p>
@@ -15,3 +15,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickbroken&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
+Creado con 🐈‍⬛
